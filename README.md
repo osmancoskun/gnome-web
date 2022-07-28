@@ -1,5 +1,6 @@
 # Project
-GNOME-looking website template created with Svelte, DaisyUI and TailwindCSS, as router, Routify 
+GNOME-looking website template created with Svelte, DaisyUI and TailwindCSS, as router, Routify.
+In `components` you can find some customised DaisyUI based web components such as `button` and `input`
 
 ## Scripts
 
