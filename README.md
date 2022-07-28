@@ -1,22 +1,7 @@
-### Want full control over everything in this template?
-We've created a new project called [**stackmix**](https://github.com/roxiness/stackmix). It's an experimental CLI that let's you pick and mix all features in a Routify template! Get started with `npx stackmix`
+# Project
+GNOME-looking website template created with Svelte, DaisyUI and TailwindCSS, as router, Routify 
 
-
-# Routify Starter
-
-Starter template for [Routify](https://github.com/roxiness/routify).
-
-# Get started
-
-To get started run:
-```sh
-mkdir routify-app
-cd routify-app
-npx @roxi/routify init
-```
-
-
-# Scripts
+## Scripts
 
 Run with `npm run <command>`, for example `npm run dev`
 
@@ -26,10 +11,8 @@ Run with `npm run <command>`, for example `npm run dev`
 | `build`   | Build your app for production!                |
 | `preview` | Preview the built version of your app locally |
 
-# Want a service worker?
-Checkout [vite-plugin-pwa](http://npmjs.org/vite-plugin-pwa)
 
-# Extra Configs
+## Extra Configs
 We include a few extra configs to help make it easy to ship a Routify project:
 
 | Config Path        | Description                                                                                                                                                |
